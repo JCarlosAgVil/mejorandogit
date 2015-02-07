@@ -1,0 +1,35 @@
+commit 22e7503cade1e6d7860922c7996f6775d5381742
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 19:18:07 2015 -0600
+
+    Agregamos chicasdress.com
+
+commit 362e285c1e3c4416fd9f6eee498a0bf029808b27
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 19:17:00 2015 -0600
+
+    Agregamos la presentacion
+
+commit 37670972d5facaa691c46494db14ede0d014e96e
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 19:15:56 2015 -0600
+
+    Redes sociales actualizadas
+
+commit b5a840525eb2436a034a2676e1594c3e445530dc
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 19:13:35 2015 -0600
+
+    Actualize perfil escrito
+
+commit 57fad7260348f95f6356cba2e378517bfbe433d1
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 19:11:05 2015 -0600
+
+    subi foto de perfil y nombre
+
+commit 98f3e06464fd45c03101978d046a9e227e52f022
+Author: Jose Carlos Aguilar Villalva <jcarlos@agvil.mx>
+Date:   Fri Feb 6 17:09:54 2015 -0600
+
+    Estos son losarchivos base de mi portafolio
